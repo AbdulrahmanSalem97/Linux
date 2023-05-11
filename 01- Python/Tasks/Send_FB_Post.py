@@ -1,0 +1,4 @@
+import requests
+response = requests.post
+response = requests.post("https://graph.facebook.com/118966894523897/feed?message=Hello Python task by salem!&access_token=EAAXGrjLsqJYBACMrZAThdeIWHH3XLQ3DLkLbUHXZCaq7fgUUi1n0TxD6niAKRsHLQ7Wykiwg7iMAkaHeKqZBMTkiPPRCcQisqeIKAHs3j4sdVxqZCi6rDr3etaLpxRmT2wPUAEsssZBktzmDCZCMQbCgRkvxNdOVTUillFZBvLTFnEoD1QkryuOsz0HhZCZBY5CyKtSSAIkQx2KZAiGMmXejk7")
+print(response.json())

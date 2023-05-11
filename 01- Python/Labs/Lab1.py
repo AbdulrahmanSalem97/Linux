@@ -1,0 +1,1 @@
+print("Hello, I'm Abdulrahman Salem\nGraduated from Mechatronics mansoura tier 2020\nFrom mansoura")
