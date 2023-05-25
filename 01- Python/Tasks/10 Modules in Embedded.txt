@@ -1,0 +1,31 @@
+10 Python Modules (Libraries) with it's usage in Embedded systems:
+
+pyserial: 
+This module provides access to the serial port for communication with external devices, which is a common interface in many embedded systems.
+
+requests: 
+This module provides support for making HTTP requests, which can be useful for communicating with web-based APIs or services.
+
+datetime: 
+This module provides support for working with dates and times, which is useful for time-based operations in embedded systems.
+
+random: 
+This module provides support for generating random numbers, which can be useful for creating randomized behavior or selecting random values.
+
+argparse: 
+This module provides support for parsing command-line arguments, which can be useful for configuring and controlling embedded systems.
+
+configparser: 
+This module provides support for reading and writing configuration files, which can be useful for managing system settings and parameters.
+
+csv: 
+This module provides support for reading and writing CSV files, which is a commonly used data interchange format in embedded systems.
+
+re: 
+This module provides support for regular expressions, which can be useful for pattern matching and text manipulation in embedded systems.
+
+subprocess: 
+This module provides support for running external processes and communicating with them, which can be useful for interfacing with other software or hardware.
+
+tkinter: 
+This module provides support for creating graphical user interfaces, which can be useful for creating user interfaces for embedded systems that have a display or input device 
